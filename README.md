@@ -1,4 +1,4 @@
-## HITK-Tech-Community
+## HITK Tech Community 👩🏻‍💻👨🏻‍💻
 
 ### **Hola Tech Enthusiasts!🤩**
 
