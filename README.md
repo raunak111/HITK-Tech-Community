@@ -1,6 +1,6 @@
-# HITK-Tech-Community
+## HITK-Tech-Community
 
-**Hola Tech Enthusiasts!🤩**
+### **Hola Tech Enthusiasts!🤩**
 
 Once you begin walking in the path of tech, it might so happen that you discover a place where people are just like you. 😇✨
 
