@@ -17,9 +17,7 @@ This will not only give practical work experience/exposure to students, but will
 
 You must be curious to know more about us. 😀So, go ahead with your curiosity, read the details in the posters given below and spread the word amongst your fellow HITK students.
 
-<p float="left">
-  <img src="https://ibb.co/cNqqfF0" width="100" />
-  <img src="https://ibb.co/xsKvmdS" width="100" /> 
-  <img src="https://ibb.co/wyQG1zt" width="100" /> 
-  <img src="https://ibb.co/hdjF17w" width="100" />
-</p>
+<img src="https://ibb.co/cNqqfF0">
+<img src="https://ibb.co/xsKvmdS"> 
+<img src="https://ibb.co/wyQG1zt"> 
+<img src="https://ibb.co/hdjF17w">
