@@ -6,9 +6,9 @@ Once you begin walking in the path of tech, it might so happen that you discover
 
 **HITK Tech Community** is a platform that helps the campus students of Heritage Institute of Technology in providing opportunities related to tech, such as:
 
-**🔹 Internships**
-**🔹 Competitions**
-**🔹 Webinars** 
+**🔹 Internships** &nbsp;
+**🔹 Competitions** &nbsp;
+**🔹 Webinars** &nbsp;
 **🔹 Job openings** <br />
 **🔹 Openings for collaborations in projects** <br />
 **🔹 Contribution in open source projects**
